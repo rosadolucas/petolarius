@@ -1,0 +1,38 @@
+MZ number	Sex	SVL (mm)	Age	Locality	Lat	Lon
+483	Female	304	Juvenile	"Viçosa, MG"	-20.761069	-42.870163
+878	Female	276	Newborns	"São João Nepomuceno, MG"	-21.540000	-43.010556
+1224	Female	758	Adult	"Astolfo Dutra, MG"	-21.315278	-42.862222
+1389	Female	805	Adult	"Muriae, MG"	-21.130278	-42.367500
+1408	Female	354	Juvenile	"Caratinga, MG"	-19.789722	-42.139167
+1409	Female	321	Juvenile	"Caratinga, MG"	-19.789722	-42.139167
+1474	Female	882	Adult	"Muriae, MG"	-21.130278	-42.367500
+1628	Female	970	Adult	"Viçosa, MG"	-20.761069	-42.870163
+1709	Female	286	Newborns	"Viçosa, MG"	-20.761069	-42.870163
+2266	Female	516	Juvenile	"Cataguases, MG"	-21.389167	-42.696667
+2349	Female	733	Adult	"Cataguases, MG"	-21.389167	-42.696667
+2414	Female	650	Juvenile	"Cataguases, MG"	-21.389167	-42.696667
+2477	Female	754	Adult	"Viçosa, MG"	-20.761069	-42.870163
+10	Male	625	Adult	"Viçosa, MG"	-20.761069	-42.870163
+997	Male	504	Adult	"Viçosa, MG"	-20.761069	-42.870163
+1225	Male	503	Adult	"Viçosa, MG"	-20.761069	-42.870163
+1244	Male	423	Adult	"Viçosa, MG"	-20.761069	-42.870163
+1267	Male	703	Adult	"Viçosa, MG"	-20.761069	-42.870163
+1286	Male	605	Adult	"Viçosa, MG"	-20.761069	-42.870163
+1313	Male	450	Adult	"Viçosa, MG"	-20.761069	-42.870163
+1387	Male	232	Newborns	"Viçosa, MG"	-20.761069	-42.870163
+1424	Male	700	Adult	"Viçosa, MG"	-20.761069	-42.870163
+1531	Male	403	Juvenile	"Viçosa, MG"	-20.761069	-42.870163
+1791	Male	291	Newborns	NA	NA	NA
+1799	Male	707	Adult	NA	NA	NA
+2008	Male	654	Adult	"Viçosa, MG"	-20.761069	-42.870163
+2107	Male	624	Adult	"Cataguases, MG"	-21.389167	-42.696667
+2110	Male	323	Juvenile	"Cataguases, MG"	-21.389167	-42.696667
+2119	Male	223	Newborns	"Cataguases, MG"	-21.389167	-42.696667
+2127	Male	229	Newborns	"Cataguases, MG"	-21.389167	-42.696667
+2131	Male	634	Adult	"Cataguases, MG"	-21.389167	-42.696667
+2190	Male	197	Newborns	"Itamarati de Minas, MG"	-21.415833	-42.817778
+2402	Male	371	Juvenile	"Cataguases, MG"	-21.389167	-42.696667
+2403	Male	523	Juvenile	"Cataguases, MG"	-21.389167	-42.696667
+2488	Male	451	Juvenile	"São Sebastião da Vargem Alegre, MG"	-21.072212	-42.636379
+2506	Male	261	Newborns	"Bandeira, MG"	-15.884722	-40.559444
+2507	Male	251	Newborns	"Cataguases, MG"	-21.389167	-42.696667
